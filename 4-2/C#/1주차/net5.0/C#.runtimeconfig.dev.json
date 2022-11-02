@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/yeriel/.dotnet/store/|arch|/|tfm|",
+      "/Users/yeriel/.nuget/packages"
+    ]
+  }
+}

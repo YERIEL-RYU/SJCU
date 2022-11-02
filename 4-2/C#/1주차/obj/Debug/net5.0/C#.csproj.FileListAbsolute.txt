@@ -1,0 +1,15 @@
+/Users/yeriel/Documents/workspace/sjcu/4-2/C#/obj/Debug/net5.0/C#.csprojAssemblyReference.cache
+/Users/yeriel/Documents/workspace/sjcu/4-2/C#/obj/Debug/net5.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yeriel/Documents/workspace/sjcu/4-2/C#/obj/Debug/net5.0/C#.AssemblyInfoInputs.cache
+/Users/yeriel/Documents/workspace/sjcu/4-2/C#/obj/Debug/net5.0/C#.AssemblyInfo.cs
+/Users/yeriel/Documents/workspace/sjcu/4-2/C#/obj/Debug/net5.0/C#.csproj.CoreCompileInputs.cache
+/Users/yeriel/Documents/workspace/sjcu/4-2/C#/bin/Debug/net5.0/C#.deps.json
+/Users/yeriel/Documents/workspace/sjcu/4-2/C#/bin/Debug/net5.0/C#.runtimeconfig.json
+/Users/yeriel/Documents/workspace/sjcu/4-2/C#/bin/Debug/net5.0/C#.runtimeconfig.dev.json
+/Users/yeriel/Documents/workspace/sjcu/4-2/C#/bin/Debug/net5.0/C#.dll
+/Users/yeriel/Documents/workspace/sjcu/4-2/C#/bin/Debug/net5.0/ref/C#.dll
+/Users/yeriel/Documents/workspace/sjcu/4-2/C#/bin/Debug/net5.0/C#.pdb
+/Users/yeriel/Documents/workspace/sjcu/4-2/C#/obj/Debug/net5.0/C#.dll
+/Users/yeriel/Documents/workspace/sjcu/4-2/C#/obj/Debug/net5.0/ref/C#.dll
+/Users/yeriel/Documents/workspace/sjcu/4-2/C#/obj/Debug/net5.0/C#.pdb
+/Users/yeriel/Documents/workspace/sjcu/4-2/C#/obj/Debug/net5.0/C#.genruntimeconfig.cache
